@@ -92,7 +92,7 @@ onBeforeUnmount(() => {
           <div class="col-md-6 mb-4 mb-md-0 text-center">
             <img ref="employeeIcon" src="/images/employee.png" alt="Employees Icon" class="icon mb-2" />
             <h2 ref="employeeNumber" class="stat-number2">120 Employees</h2>
-            <p ref="employeeText" class="stat-text">Employees at the bottom not bold Lorem ipsum dolor hgdssdfsgfd lsfhd jfhdyfghgfsghfghs</p>
+            <p ref="employeeText" class="stat-text">Employees at the bottom Lorem ipsum dolor hgdssdfsgfd lsfhd jfhdyfghgfsghfghs</p>
           </div>
           <div class="col-md-6 text-center">
             <img ref="storeIcon" src="/images/store.png" alt="Store Icon" class="icon storeicon mb-1" />
